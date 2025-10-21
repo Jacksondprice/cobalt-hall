@@ -1,0 +1,4 @@
+flask==3.0.3
+sqlalchemy==2.0.31
+pydantic==2.8.2
+pytest==8.3.2
